@@ -1,6 +1,7 @@
-<h3 align="center">A Simple Dev</h3>
+<h1 align="center">Heyyy, Spritai</h1>
+<h3 align="center">A basic developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spritai" alt="spritai" /></a> </p>
+- I am working on [Staff-Manager](https://builtbybit.com/resources/staff-manager.76718/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
