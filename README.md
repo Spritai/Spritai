@@ -1,4 +1,4 @@
-<h1 align="center">Heyyy, Spritai</h1>
+<h1 align="center">Hi, it's Spritai</h1>
 <h3 align="center">A basic developer</h3>
 
 - I am working on [Staff-Manager](https://builtbybit.com/resources/staff-manager.76718/)
